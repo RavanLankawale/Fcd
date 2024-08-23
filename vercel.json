@@ -8,7 +8,7 @@
 
     {
       "src": "/",
-      "dest": "/playlist.php",
+      "dest": "/api/playlist.php",
       "headers": {
         "Cache-Control": "max-age=84000, public",
         "Content-Type": "application/vnd.apple.mpegurl"
