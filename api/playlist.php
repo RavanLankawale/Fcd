@@ -6,7 +6,7 @@ header('Content-Type: application/vnd.apple.mpegurl');
 header('Content-Disposition: inline; filename="playlist.m3u8"');
 
 // URL of the API endpoint
-$url = 'https://babel-in.xyz/fancode';
+$url = 'https://babel-in.xyz/babel-09881c7dca3a37e7abb447153831e9f5/fancode';
 
 // Initialize a cURL session
 $ch = curl_init();
